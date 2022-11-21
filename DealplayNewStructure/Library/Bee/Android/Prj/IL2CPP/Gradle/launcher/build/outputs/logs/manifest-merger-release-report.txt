@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-109:12
+MERGED from [:PxrPlatform:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e2005cad852a0459b203d151b5c90093\PxrPlatform\AndroidManifest.xml:2:1-10:12
+MERGED from [:WebViewPlugin:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b2a16064b527707beec6ffbcb5e01668\WebViewPlugin\AndroidManifest.xml:2:1-9:12
+MERGED from [:pxr_api-release:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\600c704034d938ce0cdc862856331169\pxr_api-release\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-101
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:102-148
+	android:versionCode
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:149-189
+supports-screens
+ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:5-107:19
+MERGED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:5-107:19
+MERGED from [:pxr_api-release:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\600c704034d938ce0cdc862856331169\pxr_api-release\AndroidManifest.xml:9:5-20
+MERGED from [:pxr_api-release:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\600c704034d938ce0cdc862856331169\pxr_api-release\AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:9-52
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:9-41
+	android:label
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:icon
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:PxrPlatform:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e2005cad852a0459b203d151b5c90093\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:PxrPlatform:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\e2005cad852a0459b203d151b5c90093\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:WebViewPlugin:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b2a16064b527707beec6ffbcb5e01668\WebViewPlugin\AndroidManifest.xml:5:5-7:41
+MERGED from [:WebViewPlugin:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\b2a16064b527707beec6ffbcb5e01668\WebViewPlugin\AndroidManifest.xml:5:5-7:41
+MERGED from [:pxr_api-release:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\600c704034d938ce0cdc862856331169\pxr_api-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:pxr_api-release:] C:\Users\NOTEBOOK\.gradle\caches\transforms-2\files-2.1\600c704034d938ce0cdc862856331169\pxr_api-release\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-65
+uses-feature#android.hardware.microphone
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:9-72
+uses-permission#android.permission.CAMERA
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:5-65
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:22-62
+uses-feature#android.hardware.camera
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:5-60
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:19-57
+uses-permission#android.permission.MICROPHONE
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:5-69
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:5-80
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:22-77
+uses-permission#android.permission.Write_EXTERNAL_STORAGE
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:5-73
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:22-70
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:9-66:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-47
+	android:resizeableActivity
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-194
+	android:theme
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54
+	android:usesCleartextTraffic
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-48
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-62:40
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-65:40
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:17-37
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:9-70:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:9-73:36
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:9-76:36
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-33
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:9-79:37
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-34
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:9-82:50
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-47
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:81:13-40
+meta-data#pvr.app.type
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:83:9-85:34
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:85:13-31
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:84:13-40
+meta-data#pvr.sdk.version
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:86:9-88:51
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:88:13-48
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:87:13-43
+meta-data#enable_cpt
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:89:9-91:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:91:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:90:13-38
+meta-data#enable_entitlementcheck
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:92:9-94:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:94:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:93:13-51
+meta-data#handtracking
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:95:9-97:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:97:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:96:13-40
+meta-data#rendering_mode
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:98:9-100:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:100:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:99:13-42
+meta-data#display_rate
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:101:9-103:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:103:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:102:13-40
+meta-data#color_Space
+ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:104:9-106:33
+	android:value
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:106:13-30
+	android:name
+		ADDED from [:unityLibrary] E:\Companies\Upwork\Dealplay\VR-in-Unity\Dealplay\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:105:13-39

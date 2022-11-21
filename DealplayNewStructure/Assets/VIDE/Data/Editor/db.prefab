@@ -1,0 +1,618 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &146666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 499132}
+  - component: {fileID: 11416270}
+  m_Layer: 0
+  m_Name: db
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &499132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146666}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11416270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268dc70b105993846a123be43345df63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fileIndex: 16
+  skinIndex: 1
+  loadTag: 
+  startID: 0
+  curFocusID: 0
+  currentID: 5104
+  autosave: 1
+  previewPanning: 0
+  currentDiag: 16
+  locEdit: 0
+  pNodeID: 18
+  aNodeID: 2
+  S_playerDiags:
+  - commentCount: 1
+    s_comment:
+    - text: Comment...
+      extraData: ExtraData
+      inputSetIndex: 0
+      outputNodeIndex: -1
+      outActionIndex: 0
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 8300000, guid: d4b3e7dd10367b547afbd1ef03a7edca, type: 3}
+      visible: 1
+    ID: 0
+    rect:
+      serializedVersion: 2
+      x: -1270
+      y: -300
+      width: 348
+      height: 279
+    pTag: 
+    expand: 1
+    sprite: {fileID: 0}
+    vars:
+    - Narrator
+    varKeys:
+    - Character
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: Your manager didn't ask about how your wife was doing.
+      extraData: 1
+      inputSetIndex: 1
+      outputNodeIndex: 2
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: There wasn't any mention of alternative options.
+      extraData: 0
+      inputSetIndex: 1
+      outputNodeIndex: 2
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: The organisation's policy is outdated and should not be gender specific.
+      extraData: 0.5
+      inputSetIndex: 1
+      outputNodeIndex: 2
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 30
+        height: 47
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: The manager reinforced an outdated policy.
+      extraData: 0
+      inputSetIndex: 1
+      outputNodeIndex: 2
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 1
+    rect:
+      serializedVersion: 2
+      x: -680
+      y: -20
+      width: 348
+      height: 410.8
+    pTag: NewTheme
+    expand: 1
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Comment...
+      extraData: ExtraData
+      inputSetIndex: 2
+      outputNodeIndex: -1
+      outActionIndex: 1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 8300000, guid: 9d31b951b3c88814fa7f82eb53aa4498, type: 3}
+      visible: 1
+    ID: 2
+    rect:
+      serializedVersion: 2
+      x: -270
+      y: -400
+      width: 348
+      height: 279
+    pTag: 
+    expand: 1
+    sprite: {fileID: 0}
+    vars:
+    - Narrator
+    varKeys:
+    - Character
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: "Let down, wanting to leave.\r"
+      extraData: 0.5
+      inputSetIndex: 3
+      outputNodeIndex: 3
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Frustrated, unsure of what to do.
+      extraData: 0
+      inputSetIndex: 3
+      outputNodeIndex: 4
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Angry, this isn't right.
+      extraData: 1
+      inputSetIndex: 3
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Impartial, it's no big deal.
+      extraData: 0
+      inputSetIndex: 3
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 3
+    rect:
+      serializedVersion: 2
+      x: 20
+      y: 90
+      width: 348
+      height: 268
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Comment...
+      extraData: ExtraData
+      inputSetIndex: 4
+      outputNodeIndex: 5
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 8300000, guid: b75583fdb4043614aa81631408e26bad, type: 3}
+      visible: 1
+    ID: 4
+    rect:
+      serializedVersion: 2
+      x: 380
+      y: -210
+      width: 348
+      height: 279
+    pTag: 
+    expand: 1
+    sprite: {fileID: 0}
+    vars:
+    - Narrator
+    varKeys:
+    - Character
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: She is doing her job, she is only trying to enforce the policy of the
+        organisation.
+      extraData: 1
+      inputSetIndex: 5
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 47
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: She is obviously short staffed and they do not want you away for that
+        long.
+      extraData: 0.5
+      inputSetIndex: 5
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 143
+        width: 30
+        height: 47
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: She has conventional values and does not beleive men should take parental
+        leave.
+      extraData: ExtraData
+      inputSetIndex: 5
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 221
+        width: 30
+        height: 47
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: She is unaware that this is a very personal matter.
+      extraData: ExtraData
+      inputSetIndex: 5
+      outputNodeIndex: 6
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 269
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 5
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 130
+      width: 348
+      height: 345.6
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Comment...
+      extraData: ExtraData
+      inputSetIndex: 6
+      outputNodeIndex: 7
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 24
+      sprites: {fileID: 0}
+      audios: {fileID: 8300000, guid: 0f95c9c7246224b4ca46bc9d44b661eb, type: 3}
+      visible: 1
+    ID: 6
+    rect:
+      serializedVersion: 2
+      x: 820
+      y: -160
+      width: 348
+      height: 279
+    pTag: 
+    expand: 1
+    sprite: {fileID: 0}
+    vars:
+    - Narrator
+    varKeys:
+    - Character
+    isPlayer: 0
+  - commentCount: 4
+    s_comment:
+    - text: Do nothing and accept the outcome as it stands.
+      extraData: 1
+      inputSetIndex: 7
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 301
+        y: 65
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Escalate to your managers manager and make sure they're dealt with.
+      extraData: 0.5
+      inputSetIndex: 7
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 129
+        width: 30
+        height: 47
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Deal with the situation as it happens.
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    - text: Wait for a another time to discuss.
+      extraData: ExtraData
+      inputSetIndex: 7
+      outputNodeIndex: 8
+      outActionIndex: -1
+      showmore: 0
+      outRect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 30
+        height: 33
+      sprites: {fileID: 0}
+      audios: {fileID: 0}
+      visible: 1
+    ID: 7
+    rect:
+      serializedVersion: 2
+      x: 870
+      y: 160
+      width: 348
+      height: 316.80002
+    pTag: 
+    expand: 0
+    sprite: {fileID: 0}
+    vars: []
+    varKeys: []
+    isPlayer: 1
+  - commentCount: 1
+    s_comment:
+    - text: Comment...
+      extraData: ExtraData
+      inputSetIndex: 8
+      outputNodeIndex: -1
+      outActionIndex: -1
+      showmore: 1
+      outRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      sprites: {fileID: 0}
+      audios: {fileID: 8300000, guid: 1061a13a7f3a8e542baaca017663fe2d, type: 3}
+      visible: 1
+    ID: 8
+    rect:
+      serializedVersion: 2
+      x: 1370
+      y: -100
+      width: 348
+      height: 279
+    pTag: ThemeScore
+    expand: 1
+    sprite: {fileID: 0}
+    vars:
+    - Narrator
+    varKeys:
+    - Character
+    isPlayer: 0
+  S_actionNodes:
+  - pauseHere: 0
+    gameObjectName: UIManager
+    methodName: SetActionTimer
+    nameIndex: 1
+    methodIndex: 4
+    paramIndex: 4
+    opts:
+    - '[No method]'
+    - ShowReset
+    - CallNext
+    - SelectChoice
+    - SetActionTimer
+    - GetTime
+    - SetComentIndex
+    - StartInFourSeconds
+    - OnDestroy
+    nameOpts:
+    - '[No object]'
+    - UIManager
+    - Graph
+    - Text (TMP)
+    - Text (TMP)
+    - Text (TMP)
+    - Text (TMP)
+    - MainCanvas
+    - XR Origin
+    - NarratorCharacter
+    - App
+    - 6350f186b0e77a62f928de28
+    - EngageCharacter2
+    - Scene
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 5
+    rect:
+      serializedVersion: 2
+      x: -830
+      y: -220
+      width: 200
+      height: 194
+    ID: 9
+    outPlayerIndex: 1
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  - pauseHere: 0
+    gameObjectName: UIManager
+    methodName: SetActionTimer
+    nameIndex: 12
+    methodIndex: 4
+    paramIndex: -1
+    opts:
+    - '[No method]'
+    - ShowReset
+    - CallNext
+    - SelectChoice
+    - SetActionTimer
+    - GetTime
+    - SetComentIndex
+    - StartInFourSeconds
+    - OnDestroy
+    nameOpts:
+    - '[No object]'
+    - Text (TMP)
+    - Text (TMP)
+    - Text (TMP)
+    - Text (TMP)
+    - MainCanvas
+    - XR Origin
+    - NarratorCharacter
+    - App
+    - Graph
+    - 6350f186b0e77a62f928de28
+    - EngageCharacter2
+    - UIManager
+    - Scene
+    param_bool: 0
+    param_string: 
+    param_int: 0
+    param_float: 6
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: -270
+      width: 200
+      height: 174
+    ID: 10
+    outPlayerIndex: 3
+    outActionIndex: -1
+    more: 0
+    ovrStartNode: -1
+    renameDialogue: 
+  S_selNodes: []

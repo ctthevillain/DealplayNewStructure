@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Dealplay-Entry.unity
+    guid: e7b1cec3863c1114b8cc46fd6a728e6c
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 1/Dealplay-th1-CycleOption.unity
+    guid: fb334815d4d7d7942a6928862d7f5a0e
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 1/Dealplay-th1-Priorities.unity
+    guid: d26d8885354478a4aa3b67629440cc26
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 1/Dealplay-th1-Standard 1.unity
+    guid: e640dbadab2df63469423f4af39f191a
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 1/Dealplay-th1-Standard 2.unity
+    guid: 34f5615fbea001a4f9f37ad0553a8e73
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 1/Dealplay-th1-Standard 3.unity
+    guid: 86a14ed8b066b2b408c48ddee50cc9bb
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 2/Dealplay-th2-CycleOption.unity
+    guid: 3a3cc339f012af149b17c1357a0bf7dc
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 2/Dealplay-th2-Priorities.unity
+    guid: 7116010f0ecf30c4fb09320ffbf4e708
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 2/Dealplay-th2-Standard 1.unity
+    guid: c39c2d459109c1b4488f854818f6594d
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 2/Dealplay-th2-Standard 2.unity
+    guid: 942ed05b5b9d52e40992e8db6f1f0e44
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 2/Dealplay-th2-Standard 3.unity
+    guid: f4080c143726c7f42abc17ed29d5906f
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 3/Dealplay-th3-CycleOption.unity
+    guid: d427ce390b4681146a59f02fd9fe1b2d
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 3/Dealplay-th3-Priorities.unity
+    guid: 296bbfd1ac3e2cc4eacc0a9dc93e728f
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 3/Dealplay-th3-Standard 1.unity
+    guid: 6a5f5e4c78e3a2d4bb52f5113dcdff5f
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 3/Dealplay-th3-Standard 2.unity
+    guid: 33c940d6fdf47fa499f759bedcdfa6c4
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 3/Dealplay-th3-Standard 3.unity
+    guid: 9f1ff7a270cf51f419661ba1bf0bc9b2
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 4/Dealplay-th4-CycleOption.unity
+    guid: 191fabccb4dbe1844bf041a9a0b10860
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 4/Dealplay-th4-Priorities.unity
+    guid: 90e0e4f0c67475245bc043866d7c8697
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 4/Dealplay-th4-Standard 1.unity
+    guid: 12dfce4efefc76843ba681bc1e4708d3
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 4/Dealplay-th4-Standard 2.unity
+    guid: 9f906f1747c458847bf3fb213dd5de18
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Theme 4/Dealplay-th4-Standard 3.unity
+    guid: 699ccba571065cb44a5374fb694060d0
+  - enabled: 1
+    path: Assets/Dealplay/Scenes/Themes/Dealplay-summary.unity
+    guid: 0e81d41260383184ebc6f23d52ea2154
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: d1e9a081c301b4ccda1be65475ee7b72, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 48c512b7caa5f4809a98b7d8c7da8916, type: 2}

@@ -1,0 +1,47 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "PxrPlatform"
+  }
+  digests {
+    sha256: "\204F\317\315\272\211E\a\352I\336|\323<H`\237`\330\204\334\203\273\021HV\265y\357\216\357T"
+  }
+}
+library {
+  maven_library {
+    artifactId: "WebViewPlugin"
+  }
+  digests {
+    sha256: "igk\033\v&\341j\254\354c)mW\241\034\320\212<\340A/\\b\213\317\360;\301Io\327"
+  }
+}
+library {
+  maven_library {
+    artifactId: "pxr_api-release"
+  }
+  digests {
+    sha256: "\205G\346\330\251id\274\317\224e`\340-\267\340|#\3424\330.S\250\204a}\f\234\270e\266"
+  }
+}
+library {
+  digests {
+    sha256: "\331O\016-\350\fz.\331\\(x\310[\307\377\324jA\023\205\023\311\2128\nv\212\211E\362\031"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 3
+}

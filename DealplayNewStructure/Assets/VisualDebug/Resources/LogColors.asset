@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6533cca8f97714d98341603d0df4a7, type: 3}
+  m_Name: LogColors
+  m_EditorClassIdentifier: 
+  Log:
+    serializedVersion: 2
+    rgba: 4294958387
+  Warning:
+    serializedVersion: 2
+    rgba: 4281597951
+  Exception:
+    serializedVersion: 2
+    rgba: 4281571839
+  Error:
+    serializedVersion: 2
+    rgba: 4281545727
+  Assert:
+    serializedVersion: 2
+    rgba: 4294928127
