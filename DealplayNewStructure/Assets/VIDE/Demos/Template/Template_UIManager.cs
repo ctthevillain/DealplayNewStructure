@@ -176,7 +176,7 @@ public class Template_UIManager : MonoBehaviour
 
             if (actionTimer <= 0f)
             {
-                graphController.AddPatience(-60f);
+                graphController.AddPatience(-10f);
 
                 StopTimer();
 
