@@ -660,11 +660,13 @@ MonoBehaviour:
   - MrCube
   - NPCOnly
   - QuestChartDemo
+  - T1C1
+  - T1Priority
   - TriggeredDude
   - Witch
-  assignedIndex: 14
-  assignedID: 95105
-  assignedDialogue: Dealplay_Priority
+  assignedIndex: 36
+  assignedID: 85679
+  assignedDialogue: T1Priority
   interactionCount: 0
   alias: 
   overrideStartNode: -1

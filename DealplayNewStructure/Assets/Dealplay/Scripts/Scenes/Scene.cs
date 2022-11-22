@@ -154,7 +154,19 @@ namespace Dealplay
                         {
                             if (engageCharacter) engageCharacter.Talk(audioClip);
                         }
+                        else
+                        {
+                            if (narratorCharacter) narratorCharacter.Talk(audioClip);
+                        }
                     }
+                    else
+                    {
+                        if (narratorCharacter) narratorCharacter.Talk(audioClip);
+                    }
+                }
+                else
+                {
+                    OnTalkFinished(null);
                 }
             }
         }
@@ -166,6 +178,7 @@ namespace Dealplay
 
         private void OnVDEnd(VD.NodeData data)
         {
+            app.Template_UIManager.StopTimer();
             VD.OnNodeChange -= OnVDNodeChange;
             VD.OnEnd -= OnVDEnd;
             VD.EndDialogue();
@@ -233,7 +246,11 @@ namespace Dealplay
 
         public void CheckShowCurrentThemesProgress()
         {
-            if (VD.nodeData.tag.ToLower() == "themescore")
+            if (VD.nodeData == null)
+            {
+                return;
+            }
+            if (VD.nodeData?.tag.ToLower() == "themescore")
             {
                 app.ShowScoreSummary(true);
             }
@@ -241,7 +258,11 @@ namespace Dealplay
 
         public void CheckCreateNewTheme()
         {
-            if (VD.nodeData.tag.ToLower() == "newtheme")
+            if (VD.nodeData == null)
+            {
+                return;
+            }
+            if (VD.nodeData?.tag.ToLower() == "newtheme")
             {
 
                 app.AddNewTheme(new Theme());
@@ -250,6 +271,8 @@ namespace Dealplay
 
         public void AddCurrentScore(int choice)
         {
+            if (app.GetCurrentTheme() == null)
+                return;
             float answer = 0;
             float.TryParse(VD.nodeData.extraData[choice], out answer);
             app.GetCurrentTheme().TotalScore++;

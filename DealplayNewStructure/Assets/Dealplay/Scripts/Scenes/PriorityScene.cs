@@ -74,13 +74,33 @@ public class PriorityScene : Scene
                 if (data.extraVars.ContainsKey("Character"))
                 {
                     string characterString = (string)data.extraVars["Character"];
+                    OnCharacterVDNodeChange(characterString);
 
                     if (characterString == "Narrator")
                     {
                         if (narratorCharacter) narratorCharacter.Talk(audioClip);
                     }
-
+                    else if (characterString == "Perspective")
+                    {
+                        if (perspectiveCharacter) perspectiveCharacter.Talk(audioClip);
+                    }
+                    else if (characterString == "Engage")
+                    {
+                        if (engageCharacter) engageCharacter.Talk(audioClip);
+                    }
+                    else
+                    {
+                        if (narratorCharacter) narratorCharacter.Talk(audioClip);
+                    }
                 }
+                else
+                {
+                    if (narratorCharacter) narratorCharacter.Talk(audioClip);
+                }
+            }
+            else
+            {
+                OnTalkFinished(null);
             }
         }
         base.CheckCreateNewTheme();

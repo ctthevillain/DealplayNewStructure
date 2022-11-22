@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.9401855, g: 0.9401855, b: 0.9401855, a: 1}
+  m_IndirectSpecularColor: {r: 0.94116205, g: 0.94116205, b: 0.94116205, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -267,6 +267,7 @@ MonoBehaviour:
   - Dealplay_PerspectiveTalking1
   - Dealplay_PerspectiveTalking2
   - Dealplay_PerspectiveTalking3
+  - Dealplay_Priority
   - Dealplay_Reflection1
   - Dealplay_Reflection2
   - Dealplay_Reflection3
@@ -287,11 +288,20 @@ MonoBehaviour:
   - MrCube
   - NPCOnly
   - QuestChartDemo
+  - T1C1
+  - T1Priority
+  - T1St1
+  - T1St2
+  - T1St3
+  - T2C1
+  - T2St1
+  - T2St2
+  - T3C1
   - TriggeredDude
   - Witch
-  assignedIndex: 15
-  assignedID: 5104
-  assignedDialogue: Dealplay_Reflection2
+  assignedIndex: 43
+  assignedID: 30465
+  assignedDialogue: T3C1
   interactionCount: 0
   alias: 
   overrideStartNode: -1

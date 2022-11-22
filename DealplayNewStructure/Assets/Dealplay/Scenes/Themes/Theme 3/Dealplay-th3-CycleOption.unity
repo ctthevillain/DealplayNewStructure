@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.9401855, g: 0.9401855, b: 0.9401855, a: 1}
+  m_IndirectSpecularColor: {r: 0.94116205, g: 0.94116205, b: 0.94116205, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -123,17 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &236680356 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6130476321177377885, guid: 4f1407e291a3b4c41b7950bcd7cec9c0, type: 3}
-  m_PrefabInstance: {fileID: 6130476321343793401}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!108 &705507994 stripped
 Light:
   m_CorrespondingSourceObject: {fileID: 3143003495817373361, guid: 3bd7185be5ed9431cb5828838622d96f, type: 3}
@@ -195,14 +184,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f68e2d9ceecf4c159ca77c94491098e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xrDeviceSimulator: {fileID: 3928580061028550762}
-  videAssign: {fileID: 958624542}
-  choicesCont: {fileID: 1623059679}
-  nextButton: {fileID: 236680356}
   narratorCharacter: {fileID: 2009590887}
   perspectiveCharacter: {fileID: 0}
   engageCharacter: {fileID: 0}
   isBlurButtonOnChoice: 1
+  isBeginDialogueOnStart: 1
+  isGoNextSceneOnVDEnd: 0
 --- !u!114 &958624542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,6 +217,7 @@ MonoBehaviour:
   - Dealplay_PerspectiveTalking1
   - Dealplay_PerspectiveTalking2
   - Dealplay_PerspectiveTalking3
+  - Dealplay_Priority
   - Dealplay_Reflection1
   - Dealplay_Reflection2
   - Dealplay_Reflection3
@@ -250,11 +238,20 @@ MonoBehaviour:
   - MrCube
   - NPCOnly
   - QuestChartDemo
+  - T1C1
+  - T1Priority
+  - T1St1
+  - T1St2
+  - T1St3
+  - T2C1
+  - T2St1
+  - T2St2
+  - T3C1
   - TriggeredDude
   - Witch
-  assignedIndex: 23
-  assignedID: 50664
-  assignedDialogue: Dealplay_UnderstandOptions
+  assignedIndex: 43
+  assignedID: 30465
+  assignedDialogue: T3C1
   interactionCount: 0
   alias: 
   overrideStartNode: -1
@@ -299,11 +296,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1623059679 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6130476320798147622, guid: 4f1407e291a3b4c41b7950bcd7cec9c0, type: 3}
-  m_PrefabInstance: {fileID: 6130476321343793401}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1896036047
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -652,17 +644,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2d07966b2ea1440f9435703144413ac, type: 3}
---- !u!114 &3928580061028550762 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7860660477922262104, guid: c2d07966b2ea1440f9435703144413ac, type: 3}
-  m_PrefabInstance: {fileID: 3928580061028550761}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b34befe5d0cbb642bb5d09104a47160, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &5069725200026217066
 PrefabInstance:
   m_ObjectHideFlags: 0

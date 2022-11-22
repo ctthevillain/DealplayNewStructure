@@ -1,4 +1,0 @@
-#Fri Nov 11 01:48:39 EET 2022
-base.0=E\:\\Companies\\Upwork\\Dealplay\\VR-in-Unity\\Dealplay\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

@@ -299,11 +299,18 @@ MonoBehaviour:
   - MrCube
   - NPCOnly
   - QuestChartDemo
+  - T1C1
+  - T1Priority
+  - T1St1
+  - T1St2
+  - T1St3
+  - T2C1
+  - T2St1
   - TriggeredDude
   - Witch
-  assignedIndex: 16
-  assignedID: 5104
-  assignedDialogue: Dealplay_Reflection2
+  assignedIndex: 41
+  assignedID: 91268
+  assignedDialogue: T2St1
   interactionCount: 0
   alias: 
   overrideStartNode: -1
