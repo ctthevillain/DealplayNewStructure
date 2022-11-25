@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.9401855, g: 0.9401855, b: 0.9401855, a: 1}
+  m_IndirectSpecularColor: {r: 0.94116205, g: 0.94116205, b: 0.94116205, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -181,10 +181,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "This application has been developed in partnership with the University
-    of Sydney Business School and simulates real student experiences.\n\nBy continuing
-    to use this application you accept Dealplay Terms and Conditions and agree to
-    abide by Dealplay Health & Safety Policy available at dealplay.io\n\n\n\n\nDealplay
+  m_text: "By continuing to use this application you accept Dealplay Terms and Conditions
+    and agree to abide by Dealplay Health & Safety Policy available at dealplay.io\n\n\n\n\nDealplay
     specializes in Virtual Reality prototyping for Sales, Service, Soft Skills and
     DE&I training. \nFor more information contact sales@dealplay.io"
   m_isRightToLeft: 0
@@ -649,6 +647,46 @@ PrefabInstance:
       propertyPath: m_Name
       value: App
       objectReference: {fileID: 0}
+    - target: {fileID: 8284981333576395821, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981333926488804, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334087353301, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334113207633, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334113207633, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334113207633, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334595829122, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981334595829122, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981335023825037, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981335174488554, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
 --- !u!1001 &3928580061028550761
@@ -1022,7 +1060,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -185}
+  m_AnchoredPosition: {x: 0, y: -119.4}
   m_SizeDelta: {x: 240, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &6130476321528399207
