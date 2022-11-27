@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5517008255099170248, guid: c9b05789c9e1e4f4e86712aafc061105, type: 3}
+      propertyPath: isHidden
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5517008255099170249, guid: c9b05789c9e1e4f4e86712aafc061105, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -857,7 +861,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6130476320050151328, guid: 4f1407e291a3b4c41b7950bcd7cec9c0, type: 3}
       propertyPath: m_Text
-      value: Engage with your Manager
+      value: Continue
       objectReference: {fileID: 0}
     - target: {fileID: 6130476320265492132, guid: 4f1407e291a3b4c41b7950bcd7cec9c0, type: 3}
       propertyPath: m_AnchorMax.y

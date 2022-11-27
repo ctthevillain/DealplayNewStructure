@@ -527,7 +527,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvasScoreSummary: {fileID: 1165293519646345925}
-  CanvasTimer: {fileID: 0}
   themesScoreParent: {fileID: 3692381580691152345}
   ThemeScoreSliderPref: {fileID: 6037507357565351821}
   Template_UIManager: {fileID: 8981889820522624561}
@@ -545,7 +544,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e77d6d335b46cb642b513b40738603f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resetBtn: {fileID: 4047598905076237827}
+  resetBtn: {fileID: 509340376893087311}
   graphController: {fileID: 8284981334014223055}
   actionTimerText: {fileID: 8284981334041492683}
   actionTimerTextRed: {fileID: 8284981334678623416}
@@ -694,7 +693,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: X
+  m_text: Restart
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1246,7 +1245,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3456021233610745883
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1553,12 +1552,12 @@ GameObject:
   - component: {fileID: 8972767507788618474}
   - component: {fileID: 509340376893087311}
   m_Layer: 0
-  m_Name: close
+  m_Name: restartbtn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2832552213336412449
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1577,8 +1576,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 270, y: 149.6}
-  m_SizeDelta: {x: 50, y: 50}
+  m_AnchoredPosition: {x: 368, y: -205}
+  m_SizeDelta: {x: 90, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &3045437827722373379
 CanvasRenderer:
@@ -1601,7 +1600,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.17254902}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.89411765}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1658,7 +1657,7 @@ MonoBehaviour:
     m_SelectedTrigger: Highlighted
     m_DisabledTrigger: Disabled
   m_Interactable: 1
-  m_TargetGraphic: {fileID: 0}
+  m_TargetGraphic: {fileID: 8972767507788618474}
   m_OnClick:
     m_PersistentCalls:
       m_Calls:

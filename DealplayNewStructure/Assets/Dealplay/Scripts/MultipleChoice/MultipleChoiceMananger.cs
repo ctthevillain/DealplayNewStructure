@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using TMPro;
 using UnityEngine;
 
 public class MultipleChoiceMananger : MonoBehaviour
@@ -11,7 +10,7 @@ public class MultipleChoiceMananger : MonoBehaviour
     public event OnButtonAction OnAnsweredSuccessfullyEvent;
     public event OnButtonAction OnButtonDroppedEvent;
     public event OnButtonActionIndex OnButtonDroppedIndexEvent;
-    [SerializeField] private TMP_Text result;
+    //    [SerializeField] private TMP_Text result;
     [SerializeField] private GameObject LeftHandButton;
     [SerializeField] private GameObject RightHandButton;
 
@@ -42,11 +41,11 @@ public class MultipleChoiceMananger : MonoBehaviour
     }
     private void SetResult(int countCorrectAnswers)
     {
-        result.text = "Correct Answers:3/" + countCorrectAnswers;
+        // result.text = "Correct Answers:3/" + countCorrectAnswers;
     }
     public void SetResult(string result)
     {
-        this.result.text = result;
+        //  this.result.text = result;
     }
     public void ActivateTempButton(bool value)
     {

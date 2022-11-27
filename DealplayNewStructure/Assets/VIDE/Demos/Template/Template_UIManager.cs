@@ -57,8 +57,9 @@ public class Template_UIManager : MonoBehaviour
     {
         resetBtn.gameObject.SetActive(false);
         graphController.ResetValues();
-        SceneManager.LoadScene(1);
         App.Instance.CleareThemes();
+        SceneManager.LoadScene(1);
+
 
     }
 
