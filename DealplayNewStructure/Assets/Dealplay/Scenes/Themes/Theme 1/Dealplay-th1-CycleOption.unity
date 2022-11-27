@@ -319,6 +319,7 @@ MonoBehaviour:
   - T2Priority
   - T2St1
   - T2St2
+  - T2St3
   - T3C1
   - T3Priority
   - T3St1
@@ -433,6 +434,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: App
       objectReference: {fileID: 0}
+    - target: {fileID: 8284981333926488803, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981333926488803, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 5.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 8284981333926488803, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 2.31
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1d8f744fd2646484d88b5e32434cf99c, type: 3}
 --- !u!1001 &2009590886
@@ -521,6 +534,10 @@ PrefabInstance:
     - target: {fileID: 2968087854750236834, guid: fcd7f777346184762bf08abf9f3a61e1, type: 3}
       propertyPath: m_Name
       value: LogoCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 2968087854750236834, guid: fcd7f777346184762bf08abf9f3a61e1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2968087854750236838, guid: fcd7f777346184762bf08abf9f3a61e1, type: 3}
       propertyPath: m_Pivot.x

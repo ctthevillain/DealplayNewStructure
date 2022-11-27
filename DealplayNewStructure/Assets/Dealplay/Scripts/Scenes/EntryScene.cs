@@ -1,26 +1,19 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
-using UnityEngine.XR.Interaction.Toolkit.Inputs.Simulation;
-using VIDE_Data;
-using TMPro;
 
 namespace Dealplay
 {
-    public class EntryScene : Scene
+    public class EntryScene : MonoBehaviour
     {
         public Animator logoCanvasAnimator;
         public RectTransform termsConditions;
-
+        public AudioSource clickAudio;
         private float logoFadeDuration = 3f;
-
-        public static new EntryScene Instance { get { return (EntryScene)instance; } }
 
         protected new void Awake()
         {
-            base.Awake();
+
 
             logoCanvasAnimator.enabled = true;
             termsConditions.gameObject.SetActive(false);
@@ -28,7 +21,7 @@ namespace Dealplay
 
         protected new void Start()
         {
-            base.Start();
+
 
             StartCoroutine(WaitAndShowTermsConditions());
         }
@@ -38,6 +31,13 @@ namespace Dealplay
             yield return new WaitForSeconds(logoFadeDuration);
 
             termsConditions.gameObject.SetActive(true);
+        }
+        public void OnClickNextButton()
+        {
+            int currSceneIndx = SceneManager.GetActiveScene().buildIndex;
+            int nextSceneIndx = currSceneIndx + 1;
+            clickAudio.Play();
+            SceneManager.LoadScene(nextSceneIndx);
         }
     }
 }

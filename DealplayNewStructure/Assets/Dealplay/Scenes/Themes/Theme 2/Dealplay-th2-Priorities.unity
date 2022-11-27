@@ -218,6 +218,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1471469187039773234, guid: 2563414d069e08947a5c83b7de3dc517, type: 3}
+      propertyPath: LeftHandButton
+      value: 
+      objectReference: {fileID: 1306621170}
+    - target: {fileID: 1471469187039773234, guid: 2563414d069e08947a5c83b7de3dc517, type: 3}
+      propertyPath: RightHandButton
+      value: 
+      objectReference: {fileID: 949566271}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2563414d069e08947a5c83b7de3dc517, type: 3}
 --- !u!114 &128467112 stripped
@@ -698,6 +706,7 @@ MonoBehaviour:
   - T2Priority
   - T2St1
   - T2St2
+  - T2St3
   - T3C1
   - T3Priority
   - T3St1
