@@ -551,6 +551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LogoCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 2968087854750236834, guid: fcd7f777346184762bf08abf9f3a61e1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2968087854750236838, guid: fcd7f777346184762bf08abf9f3a61e1, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

@@ -25,7 +25,7 @@ public class MultipleChoiceMananger : MonoBehaviour
             {
                 return;
             }
-            if (Dropables[i].GetChoicePrperties().IsCorrect)
+            // if (Dropables[i].GetChoicePrperties().IsCorrect)
             {
                 countCorrect++;
             }
